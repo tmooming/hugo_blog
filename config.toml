@@ -607,9 +607,9 @@ uglyURLs = false
     disqusShortname = ""
 
     ## Valine
-    enableValine = false
-    valineAppId = ""
-    valineAppKey = ""
+    enableValine = true
+    valineAppId = "2bY8AFKYifytF6Tb7RRgAaRK-MdYXbMMI"
+    valineAppKey = "LwAjsllqAPiyk0Vra6b04zpR"
     valinePlaceholder = "Just go go"
     valinePath = ""
     valineAvatar = "mm"
