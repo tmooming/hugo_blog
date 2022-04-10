@@ -1,7 +1,7 @@
 ##########################################
 # 站点配置
 
-baseURL = "https://turuwei.com/"
+baseURL = "https://www.turuwei.com/"
 title = "昆仑的博客"
 languageCode = "zh-CN"
 hasCJKLanguage = true
@@ -96,17 +96,17 @@ uglyURLs = false
 # 作者信息
 [author]
     # 名字
-    name = "reuixiy"
+    name = "turuwei"
     # 邮箱
-    email = "reuixiy@gmail.com"
+    email = "turuwei@163.com"
     # 座右铭或简介
-    motto = "Viva La Vida"
+    motto = "今日事今日毕"
     # 头像
     avatar = "/icons/apple-touch-icon.png"
     # 网站（默认值：baseURL）
-    website = "https://io-oi.me/"
+    website = "https://www.turuwei.com"
     # 推特
-    twitter = "reuixiy"
+    twitter = "turuwei"
 
 # 相关文章
 [related]
