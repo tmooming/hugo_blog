@@ -40,3 +40,5 @@ fields:
     required: false
   label: description
   description: 摘要
+pages:
+- content/about.md
